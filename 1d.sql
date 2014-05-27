@@ -1,0 +1,1 @@
+update boek set isbn = '12346' where isbn = '12345';

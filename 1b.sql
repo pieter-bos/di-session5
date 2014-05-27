@@ -1,0 +1,2 @@
+insert into boek (isbn, titel, auteur) values ("12345", "Donald Duck nummer 5128", "Martijn de Bijl");
+insert into boek (isbn, titel, auteur) values ("12345", "Donald Duck nummer 5129", "Martijn de Bijl");
